@@ -1,6 +1,8 @@
 # Ever PS Customer Login : free module for Prestashop 1.7 #
 
 This module displays a block allowing the customer to connect quickly
+An explanatory article is available in French through this URL
+https://www.team-ever.com/prestashop-1-7-un-formulaire-de-connexion-en-full-smarty/
 
 ## Module installation & configuration ##
 
